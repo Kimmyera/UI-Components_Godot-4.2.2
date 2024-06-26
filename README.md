@@ -4,14 +4,14 @@ This is a simple UI Component library that is in the works. I will make sure eve
 
 # Features
 ## Components
-- ### Labels
--- Animating Integer (IntegerLabel.tscn)
-- ### Inputs
--- Horizontally-centered Custom Spinbox (CustomSpinbox.tscn)
---- Uses buttons on the left or right of the value to increase/decrease by integer increments. (Default of 1)
+- Labels
+	- Animating Integer (IntegerLabel.tscn)
+- Inputs
+	- Horizontally-centered Custom Spinbox (CustomSpinbox.tscn)
+		- Uses buttons on the left or right of the value to increase/decrease by integer increments. (Default of 1)
 ## Common Utilities
 - ValueAnimator.gd
--- Animates a displaying value to the base value, with the options of; None, Linear, and Lerp
+	- Animates a displaying value to the base value, with the options of; None, Linear, and Lerp
 
 # Credits
 <span style="color:orange; font-size:2rem">!! READ FIRST: All Assets included in the project are either free to use and/or subject to licensing terms, such as; NO alteration of, and NO taking credit of the aforementioned assets included within the Assets/ directory !!</span>
