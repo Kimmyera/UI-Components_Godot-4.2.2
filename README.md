@@ -14,6 +14,6 @@ This is a simple UI Component library that is in the works. I will make sure eve
 	- Animates a displaying value to the base value, with the options of; None, Linear, and Lerp
 
 # Credits
-<span style="color:orange; font-size:2rem">!! READ FIRST: All Assets included in the project are either free to use and/or subject to licensing terms, such as; NO alteration of, and NO taking credit of the aforementioned assets included within the Assets/ directory !!</span>
+<span style="color:orange; font-size:4rem"> !! READ FIRST: All Assets included in the project are either free to use and/or subject to licensing terms, such as; NO alteration of, and NO taking credit of the aforementioned assets included within the Assets/ directory !! </span>
 - UI Button Icons *made by* Kicked-In Teeth on itch.io (**CSL** Licensed): [Go to Asset Page](https://kicked-in-teeth.itch.io/button-ui)
 - Reboot - Pixel Art Font *made by* WildLeoNight on itch.io (**CC** Licensed): [Go to Asset Page](https://wildleoknight.itch.io/reboot)
