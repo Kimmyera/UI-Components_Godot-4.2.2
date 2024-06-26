@@ -1,0 +1,43 @@
+[gd_scene load_steps=5 format=3 uid="uid://bnvslulebfatk"]
+
+[ext_resource type="Theme" uid="uid://dy14kbnx8gt63" path="res://Theme.tres" id="1_fpdnw"]
+[ext_resource type="Theme" uid="uid://33txwgy7ia7r" path="res://UIComponents/Themes/pixel_text_theme.tres" id="1_hev0w"]
+[ext_resource type="Script" path="res://UIComponents/Inputs/custom_spinbox.gd" id="2_52ued"]
+[ext_resource type="Texture2D" uid="uid://bohr6d7gh7t2" path="res://Assets/UI/Icons/16x16-sprite-png/tile115.png" id="3_i2cxh"]
+
+[node name="CustomSpinbox" type="BoxContainer"]
+offset_right = 272.0
+offset_bottom = 56.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme = ExtResource("1_hev0w")
+alignment = 1
+script = ExtResource("2_52ued")
+
+[node name="DownButton" type="TextureButton" parent="."]
+custom_minimum_size = Vector2(64, 64)
+layout_mode = 2
+size_flags_horizontal = 0
+mouse_default_cursor_shape = 2
+theme = ExtResource("1_fpdnw")
+texture_normal = ExtResource("3_i2cxh")
+stretch_mode = 0
+flip_h = true
+
+[node name="NumberField" type="LineEdit" parent="."]
+custom_minimum_size = Vector2(100, 64)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0"
+alignment = 1
+expand_to_text_length = true
+virtual_keyboard_type = 2
+
+[node name="UpButton" type="TextureButton" parent="."]
+custom_minimum_size = Vector2(64, 64)
+layout_mode = 2
+size_flags_horizontal = 8
+mouse_default_cursor_shape = 2
+texture_normal = ExtResource("3_i2cxh")
+stretch_mode = 0

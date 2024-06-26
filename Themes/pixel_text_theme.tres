@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://33txwgy7ia7r"]
+
+[ext_resource type="FontFile" uid="uid://jak5vgokyok8" path="res://UIComponents/Assets/Fonts/Reboot/Reboot.ttf" id="1_4tqs0"]
+
+[resource]
+default_font = ExtResource("1_4tqs0")
+default_font_size = 64
