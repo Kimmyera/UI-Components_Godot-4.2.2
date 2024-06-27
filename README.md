@@ -15,14 +15,14 @@ This is a simple UI Component library that is in the works. I will make sure eve
 
 # Examples
 
-##Integer Label - with Linear Speed
-<video src="./md/media/int_label_example.mp4" width="320" height="240" controls></video>
+- ## Integer Label - with Linear Speed
+https://github.com/Kimmyera/UI-Components_Godot-4.2.2/assets/29005983/3ca6233a-87b8-46e2-8ece-73913dbc93b6
 
-##Integer Label - with Lerp Factor
-<video src="./md/media/int_label_lerp_example.mp4" width="320" height="240" controls></video>
+- ## Integer Label - with Lerp Factor
+https://github.com/Kimmyera/UI-Components_Godot-4.2.2/assets/29005983/f2291e5a-f340-475a-8bee-ae6ba52001a7
 
-##Horizontal Spinbox Input (custom_spinbox.tscn)
-<video src="./md/media/int_label_lerp_example.mp4" width="320" height="240" controls></video>
+- ## Horizontal Spinbox Input (custom_spinbox.tscn)
+https://github.com/Kimmyera/UI-Components_Godot-4.2.2/assets/29005983/0270570d-f9c1-4a0d-a4dc-8e1206c13579
 
 # Credits
 <span style="color:red; font-size:4rem"> !! READ FIRST: All Assets included in the project are either free to use and/or subject to licensing terms, such as; NO alteration of, and NO taking credit of the aforementioned assets included within the Assets/ directory !! </span>
